@@ -1,0 +1,51 @@
+body {
+  color: #6067e4;
+  background: rgb(7, 0, 36);
+  font-family: 'Jersey 10', sans-serif;
+  margin: 0;
+  padding: 0;
+}
+
+header {
+  border-bottom: 4px dotted #6067e4;
+  padding: 10px;
+  font-size: 32px;
+  color: #6067e4;
+  text-align: center;
+  background: rgb(7, 0, 36);
+}
+
+section {
+  padding: 20px;
+  color: #fff;
+  margin: 20px 0;
+}
+
+.texto {
+  text-align: center;
+  margin-bottom: 20px;
+}
+
+.video iframe {
+  display: block;
+  margin: 0 auto;
+  border: none;
+}
+
+.section1 {
+  background-image: url('https://wallpapercave.com/wp/wp3283179.jpg');
+  background-size: cover;
+  background-position: center;
+}
+
+.section2 {
+  background-image: url('https://images6.alphacoders.com/131/1319866.jpeg');
+  background-size: cover;
+  background-position: center;
+}
+
+.section3 {
+  background-image: url('https://wallpapers.com/images/hd/skyrim-seal-of-akatosh-7ssaw9hk6svs5ij0.jpg');
+  background-size: cover;
+  background-position: center;
+}
